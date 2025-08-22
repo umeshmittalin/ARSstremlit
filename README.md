@@ -18,7 +18,7 @@ This Streamlit app calculates Suggested Order Quantities (SOQ) for FMCG distribu
 
 ## 💡 Example Calculation
 ```
-SOQ = (Avg_Monthly_Sales × Uplift_Factor) - Stock
+SOQ = (Avg_Monthly_Sales × Uplift_Factor × Festival_Uplift) - Stock
 ```
 
 ## 🧪 Run Locally
